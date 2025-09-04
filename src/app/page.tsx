@@ -92,12 +92,12 @@ export default function Home() {
           <p>
             Made with ❤️ by{" "}
             <a
-              href="https://twitter.com/yourhandle"
+              href="https://github.com/patrickmvla/pdf2md"
               target="_blank"
               rel="noopener noreferrer"
               className="font-medium text-gray-900 dark:text-white hover:underline"
             >
-              Your Name
+              Mvula
             </a>
             . Star on GitHub.
           </p>
